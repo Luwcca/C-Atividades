@@ -1,0 +1,58 @@
+Bem-Vindo a :
+
+
+#########################################################
+##                                                     ##
+##                                                     ##
+##               ## ######   #####  ## ##              ##
+##               ## ##   ## ##   ## ## ##              ##
+##               ## ######  ####### ## ##              ##
+##               ## ##   ## ##   ##                    ##
+##               ## ##   ## ##   ## ## ##              ##
+##                                                     ##
+##                                                     ##
+##                                                     ##
+##                                                     ##
+#########################################################
+
+
+
+
+Este manual ira te ensinar a jogar o jogo:
+
+1 - Para jogar selecione o save
+
+2 - Criação de personagem:
+    - Primeiramente selecione a classe do seu personagem:
+        -Lutador: +5 de vida, +5 de dano, Armadura média e espadas
+        -Ladrão: +10 de dano, Armadura leve e adagas
+        -Mago: +5 de Mana, 5+ dano, Armadura leve e Cajado
+        -Cavaleiro: +10 de vida; Armadura pesada e Machados
+        -Templário: +5 de vida, +5 de mana, Armadura média e Lanças
+    -Escolha um nome
+    -Escolha a dificuldade
+
+3-  História:
+    - Seu gatinho de estimação foi raptado pelas forças do Litch! Recupere o seu bichinho de estimação e de uma surra no Litch!
+    - O domínio do Litch é defendido por 3 cristais. Para acessar o seu castelo, você precisa derrotar todos os cristais que protegem seu castelo:
+        - O cristal do Pantano, é guardado pelo terrivel Lorde Peixarel
+        - O cristal da Malvadesa, é guadado pelo Conde Malvadoso
+        - O cristal da Sujeira, é guaradado pelo Casção.
+    - Use a sua IRA para derrota-los
+
+4- Jogabilidade:
+    - Mundo
+        - Ande com as setas WASD e interaja com o ambiente apertando J
+        - Aperte L para acessar o menu, use as setas WASD para navegar e o J para confirmar e K para cancelar.
+    - Batalha:
+        - Com os mesmos comandos do menu, use os ataques, items e habilidades para derrotar os monstros
+        - A batalha acaba quando você morre ou derrota o mosnstro
+        - É possivel escapar da batalha, mas você não recebera as recompensas.
+
+5- Status:
+    - Os status são definidos pelos equipamentos e pela classe
+        - Vida - define a sua vida
+        - Mana - Define quantas vezes você pode usar suas habilidades
+        - Dano - Define quanto de dano você causa
+
+    

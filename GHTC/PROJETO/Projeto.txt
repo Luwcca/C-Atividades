@@ -1,0 +1,27 @@
+PROJETO
+O seu jogo roguelike deverá ter no mínimo as seguintes funcionalidades abaixo:
+    Tela de início, onde deverá ser mostrado o nome do seu jogo e o nome dos criadores;
+    Após a tela de início, deverá aparecer a tela de seleção de jogo, onde o usuário poderá:
+        Escolher um slot de jogo, podendo ter até 3 slots de jogo;
+        Ao selecionar um slot de jogo, o usuário poderá;
+            Definir um nome para o jogador;
+            Escolher a classe do seu personagem, de uma lista de até 5 classes;
+            Escolher o nível de dificuldade do jogo, entre fácil e difícil;
+        Após configurar o slot de jogo, o programa deverá iniciar o jogo;
+    Ao iniciar o jogo, deverá ser mostrado uma história sobre o jogo e o objetivo do jogador deverá ser mostrado;
+    O jogador começa o jogo do ponto de partida, e então ele pode andar por esse mundo e lutar contra monstros;
+    O jogador deve ter no mínimo 2 atributos, sendo eles pontos de vida e pontos de habilidade obrigatórios.
+    O jogador poderá salvar o progresso do jogo através do uso de um checkpoint;
+    O jogador deverá realizar uma série de objetivos, que ao final de todos eles, deverá ser considerado o fim do jogo (como exemplo, você pode fazer o seu jogador lutar contra monstros até derrotar um chefão final);
+    Caso a vida do jogador chegue a zero, o jogo deve começar do último ponto em que o jogador tenha salvo. Caso o jogador não tenha nada salvo, ele deverá começar do ponto de partida;
+    O seu jogo deve ter no mínimo 10 itens que o jogador pode coletar e utilizar. Abaixo está listado alguns exemplos que você pode colocar:
+        Poções podem melhorar os atributos do jogador de maneira temporária;
+        Armadura e amuletos que melhoram atributos do jogador quando equipados;
+        Comida e pergaminhos, que melhoram atributos de maneira permanente;
+        Armas que quando utilizadas causam danos em monstros;
+        Ferramentas que quando utilizadas ajudam o jogador a realizar uma tarefa.
+    O seu jogo deve ter no mínimo 10 monstros, que podem causar dano ao jogador, reduzindo pontos de vida. O jogador pode usar itens nos monstros, que podem reduzir a vida deles.
+
+
+
+

@@ -1,0 +1,7 @@
+1
+penis : nome
+A : classe
+1000 : mapa
+10 : vida
+10 : mana
+15 : dano
